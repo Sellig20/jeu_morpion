@@ -1,4 +1,4 @@
-Jeu Morpion
+<h1>Jeu Morpion</h1>
 One Paragraph of project description goes here
 
 Getting Started

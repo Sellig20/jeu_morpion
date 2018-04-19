@@ -4,7 +4,7 @@ L'un des jeux les plus nul de l'histoire
 
 ## Introduction
 
-Projet fait pour THP - un jeu fait 
+Projet fait pour THP - un jeu fait pour faire passé le temps
 
 ### Language use
 ```
